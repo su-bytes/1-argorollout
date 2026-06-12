@@ -1,7 +1,5 @@
 argo rollout
 
-# argoroll-bg
-
 
 ```shell
 kubectl create namespace argo-rollouts
