@@ -26,6 +26,10 @@ vim rollout.yaml and service.yaml
 kubectl apply -f rollout.yaml -f service.yaml
 kubectl get all, kubectl get svc
 
+now, check in browser and argorollout dashboard - 
+http://localhost:30080/ (blue app)
+
+
 ```shell
 kubectl argo rollouts get rollout rollout-bluegreen
 kubectl argo rollouts set image rollout-bluegreen rollouts-demo=argoproj/rollouts-demo:green
