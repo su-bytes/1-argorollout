@@ -40,3 +40,6 @@ kubectl argo rollouts promote rollout-bluegreen
 kubectl argo rollouts get rollout rollout-bluegreen
 
 ```
+
+You can click on 'Promote' or 'Rollback' from the dashboard.
+http://localhost:3100/rollouts/rollout/argocd/rollout-bluegreen
