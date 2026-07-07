@@ -61,4 +61,5 @@ You can click on 'Promote' or 'Rollback' from the dashboard.
 http://localhost:3100/rollouts/rollout/argocd/rollout-bluegreen
 
 ---------------------------
-
+Detail steps with screenshots in this repo - What are Argo Rollouts.docx
+https://github.com/su-bytes/1-argorollout/blob/main/What%20are%20Argo%20Rollouts.docx 
